@@ -1,0 +1,9 @@
+[submodule "theme/hugo-future-imperfect-slim"]
+	path = theme/hugo-future-imperfect-slim
+	url = https://github.com/pacollins/hugo-future-imperfect-slim
+[submodule "themes/hugo-future-imperfect-slim"]
+	path = themes/hugo-future-imperfect-slim
+	url = https://github.com/pacollins/hugo-future-imperfect-slim.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
