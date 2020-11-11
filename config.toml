@@ -8,7 +8,7 @@ paginate                = 3
 disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = false
-disableLanguages        = []
+disableLanguages        = ["fr", "pl", "pt", "de", "es", "zh-cn", "ja", "nl"]
 
 [markup.goldmark.renderer]
   unsafe                = true
